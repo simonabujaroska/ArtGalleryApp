@@ -1,0 +1,12 @@
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\bin\Debug\net6.0\ArtGallery.Domain.deps.json
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\bin\Debug\net6.0\ArtGallery.Domain.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\bin\Debug\net6.0\ArtGallery.Domain.pdb
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.csproj.AssemblyReference.cache
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.AssemblyInfoInputs.cache
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.AssemblyInfo.cs
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\refint\ArtGallery.Domain.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ArtGallery.Domain.pdb
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Domain\obj\Debug\net6.0\ref\ArtGallery.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\bin\Debug\net6.0\ArtGallery.Repository.deps.json
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\bin\Debug\net6.0\ArtGallery.Repository.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\bin\Debug\net6.0\ArtGallery.Repository.pdb
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\bin\Debug\net6.0\ArtGallery.Domain.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\bin\Debug\net6.0\ArtGallery.Domain.pdb
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.csproj.AssemblyReference.cache
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.AssemblyInfoInputs.cache
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.AssemblyInfo.cs
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.csproj.CopyComplete
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\refint\ArtGallery.Repository.dll
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ArtGallery.Repository.pdb
+C:\Users\Simona\Desktop\August 2023\ArtGalleryApplication\ArtGallery.Repository\obj\Debug\net6.0\ref\ArtGallery.Repository.dll
